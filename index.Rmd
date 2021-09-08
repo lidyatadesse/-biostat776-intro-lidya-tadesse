@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About Me
 
-Hi! My name is Lidya and I'm a **second-year Master's student in Epidemiology**. While I have had the opportunity to work on many projects in a variety of different areas, I would say my general research interests are in **preventive health** and **health disparities**, with a special focus on **immigrant/minority populations.**
+Hi! My name is Lidya and I'm a **second-year Master's student in Epidemiology**. While I have had the opportunity to work on many projects in a variety of different areas, I would say my research interests are in **preventive health** and **health disparities**, with a special focus on **immigrant/minority populations.**
 
 Over the length of this course, I'm excited to learn practical skills in R in applying statistical methods. I'm especially looking forward to learning more about data visualization techniques!
 <br/>
